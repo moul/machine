@@ -1,5 +1,7 @@
 # Docker Machine
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/machine.svg)](https://www.guardrails.io)
+
 Machine lets you create Docker hosts on your computer, on cloud providers, and
 inside your own data center. It creates servers, installs Docker on them, then
 configures the Docker client to talk to them.
